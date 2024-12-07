@@ -1,3 +1,18 @@
+<style>
+  .wave {
+    animation: wave-animation 2s infinite;
+  }
+
+  @keyframes wave-animation {
+    0% { transform: rotate(0deg); }
+    25% { transform: rotate(15deg); }
+    50% { transform: rotate(0deg); }
+    75% { transform: rotate(-15deg); }
+    100% { transform: rotate(0deg); }
+  }
+</style>
+
+
 <h1 align="center">Hi <span class="wave">👋</span> I'm Rajesh Kumar. S</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
@@ -78,16 +93,4 @@
 <p align="center">💻 Built with ❤️ by [Your Name]</p>
 
 
-<style>
-  .wave {
-    animation: wave-animation 2s infinite;
-  }
 
-  @keyframes wave-animation {
-    0% { transform: rotate(0deg); }
-    25% { transform: rotate(15deg); }
-    50% { transform: rotate(0deg); }
-    75% { transform: rotate(-15deg); }
-    100% { transform: rotate(0deg); }
-  }
-</style>
