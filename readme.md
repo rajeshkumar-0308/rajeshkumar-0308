@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" /> I'm Rajesh Kumar. S</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
 <p align="center">
@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://your-image-link.com" alt="Web Development Image" width="400"/>
+  <img src="https://images.unsplash.com/photo-1506081679274-825700d4c318" alt="Web Development" width="400"/>
 </p>
 
 ---
