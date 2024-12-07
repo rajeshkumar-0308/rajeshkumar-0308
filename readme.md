@@ -1,27 +1,32 @@
 <h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate [Your Role] from [Your Country]</h3>
+<h3 align="center">A passionate Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+GitHub!;Full-Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+GitHub!;MERN+Stack+Developer;Java+Programmer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://your-image-link.com" alt="Web Development Image" width="400"/>
 </p>
 
 ---
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59393128/190857483-2cf6fb71-70b5-4886-9155-28979d6b9c99.gif">
 
-- 🔭 I’m currently working on **[Your Current Project]**
+- 🔭 I’m pursuing my studies at **PSNA College of Engineering and Technology**  
 
-- 🌱 I’m learning **[Technologies/Skills]**
+- 🌱 I’m learning to work efficiently in **low code development** and **hosting with DNS**  
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://your-portfolio-link)
+- 👨‍💻 All of my projects are available at [My Portfolio]([https://your-portfolio-link.com](https://rajeshkumar-0308.github.io/Personal_Portfolio/))  
 
-- 💬 Ask me about **[Your Expertise]**
+- 💬 Ask me about **Web Development(MERN Stack) and Java Programming**  
 
-- 📫 How to reach me: **[Your Email]**
+- 📫 How to reach me: **rajeshsaravanan2004@gmail.com**  
 
-- ⚡ Fun fact: **[Something Fun About You]**
+- ⚡ Fun fact: **I enjoy experimenting with new technologies and building creative solutions to real-world problems!**  
 
 ---
+
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
