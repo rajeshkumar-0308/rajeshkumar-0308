@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" /> I'm Rajesh Kumar. S</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
-<p align="center">
+<p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+GitHub!;MERN+Stack+Developer;Java+Programmer" alt="Typing SVG" />
 </p>
 
