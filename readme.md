@@ -18,7 +18,7 @@
 
 - 🌱 I’m learning to work efficiently in **low code development** and **hosting with DNS**  
 
-- 👨‍💻 All of my projects are available at [My Portfolio]([https://your-portfolio-link.com](https://rajeshkumar-0308.github.io/Personal_Portfolio/))  
+- 👨‍💻 All of my projects are available at <a href="https://your-portfolio-link.com](https://rajeshkumar-0308.github.io/Personal_Portfolio/"> My Portfolio </a>
 
 - 💬 Ask me about **Web Development(MERN Stack) and Java Programming**  
 
