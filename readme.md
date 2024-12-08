@@ -93,11 +93,16 @@
   </a>
 </p>
 
-
-
-
 ---
 
+<h2 align="center">🌐 LeetCode Profile</h2>
+<p align="center">
+  <!-- LeetCode Logo -->
+  <a href="https://leetcode.com/u/RajeshKumarS_0308/" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluency/48/leetcode.png" alt="LeetCode" height="50" width="50" />
+  </a>
+</p>
+---
 
 
 
