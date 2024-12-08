@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rajesh Kumar. S</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
-<p>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+GitHub!;MERN+Stack+Developer;Java+Programmer" alt="Typing SVG" />
 </p>
 
@@ -12,7 +12,6 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59393128/190857483-2cf6fb71-70b5-4886-9155-28979d6b9c99.gif">
 
 - 🔭 I’m pursuing my studies at **PSNA College of Engineering and Technology**  
 
@@ -52,12 +51,14 @@
 </div>
 
 
+  <!-- 
 <h1 align="center">📈 Contribution Graph</h1>
 <div align="center" style="background: linear-gradient(to bottom right, #36BCF7, #121212); padding: 20px; border-radius: 15px;">
   <p>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeshkumar-0308&theme=react-dark&area=true" alt="Contribution Graph" />
   </p>
 </div>
+-->
 
 
 
@@ -79,10 +80,10 @@
 
 
 <h2 align="center">🌐 LeetCode Profile</h2>
-<p align="center">
-  <!-- LeetCode Stats Image -->
-  <img src="https://leetcard.jacoblin.cool/RajeshKumarS_0308?font=segoe_ui&width=500&height=200&theme=dark" alt="Leetcode Stats" />
-</p>
+ <a href="https://leetcode.com/u/RajeshKumarS_0308/">
+    <img src="https://leetcard.jacoblin.cool/RajeshKumarS_0308?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats">
+</a>
+
 
 ---
 
