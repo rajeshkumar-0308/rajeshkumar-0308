@@ -78,9 +78,10 @@
 
 
 <h2 align="center">🌐 LeetCode Profile</h2>
- <a href="https://leetcode.com/u/RajeshKumarS_0308/">
-    <img src="https://leetcard.jacoblin.cool/RajeshKumarS_0308?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats">
+<a href="https://leetcode.com/u/RajeshKumarS_0308/" style="display: center;">
+  <img src="https://leetcard.jacoblin.cool/RajeshKumarS_0308?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats" style="display: center;">
 </a>
+
 
 
 ---
