@@ -1,3 +1,4 @@
+![MasterHead](https://res.cloudinary.com/dyox9vtgi/image/upload/v1731153235/Bannergif-ezgif.com-crop_3_fhswl6.gif)
 <h1 align="center">Hi 👋, I'm Rajesh Kumar. S</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
@@ -21,9 +22,12 @@
 
 - 💬 Ask me about **Web Development(MERN Stack) and Java Programming**  
 
-- 📫 How to reach me: **rajeshsaravanan2004@gmail.com**  
+- 📫 How to reach me: **rajeshsaravanan2004@gmail.com**
 
-- ⚡ Fun fact: **I enjoy experimenting with new technologies and building creative solutions to real-world problems!**  
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/182qkpPZGPY2pxnVa6SkKdwcs8aMGucXH/view?usp=sharing)  
+
+- ⚡ Fun fact: **I enjoy experimenting with new technologies and building creative solutions to real-world problems!**
+  
 
 ---
 
@@ -72,29 +76,22 @@
 
 ---
 <h2 align="center">🌐 Connect with Me</h2>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px; background: linear-gradient(to bottom right, #36BCF7, #121212); border-radius: 15px;">
+<p align="center">
   <!-- LinkedIn Logo -->
-  <a href="https://www.linkedin.com/in/srajeshkumar03/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png" 
-         alt="LinkedIn" 
-         style="max-width: 100%; width: 80px; height: 80px; border-radius: 15px;" />
+  <a href="https://www.linkedin.com/in/srajeshkumar03/" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" height="50" width="50" />
   </a>
 
   <!-- Gmail Logo -->
-  <a href="mailto:rajeshsaravanan2004@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Gmail_Icon_%282013-2020%29.png" 
-         alt="Gmail" 
-         style="max-width: 100%; width: 80px; height: 80px; border-radius: 15px;" />
+  <a href="mailto:rajeshsaravanan2004@gmail.com" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail" height="50" width="50" />
   </a>
 
-  <!-- Portfolio Logo (GitHub Pages) -->
-  <a href="https://rajeshkumar-0308.github.io/Personal_Portfolio/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Octicons-mark-github.svg" 
-         alt="Portfolio" 
-         style="max-width: 100%; width: 80px; height: 80px; border-radius: 15px;" />
+  <!-- Personal Portfolio Logo -->
+  <a href="https://rajeshkumar-0308.github.io/Personal_Portfolio/" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluency/48/github.png" alt="Portfolio" height="50" width="50" />
   </a>
-</div>
-
+</p>
 
 
 
