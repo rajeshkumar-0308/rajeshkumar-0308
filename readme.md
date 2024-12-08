@@ -37,35 +37,23 @@
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
-
-<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Rajesh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajeshkumar-0308&show_icons=true&theme=radical" alt="Rajesh's GitHub Stats" />
 </p>
 
 <h2 align="center">🌐 Top Languages</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<h2 align="center">🔥 Streak Stats</h2>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="Rajesh's Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshkumar-0308&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <h2 align="center">📈 Contribution Graph</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark&area=true" alt="Rajesh's Contribution Graph" />
-</p>
-
-<h2 align="center">🏆 Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark" alt="Rajesh's Trophies" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rajeshkumar-0308&theme=react-dark&area=true" alt="Rajesh's Contribution Graph" />
 </p>
 
 <h2 align="center">👀 Profile Views</h2>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=rajeshkumar-0308&color=blue" alt="Visitor Count" />
 </p>
 
 ---
