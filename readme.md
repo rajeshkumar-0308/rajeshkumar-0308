@@ -24,7 +24,7 @@
 
 - 📫 How to reach me: **rajeshsaravanan2004@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/182qkpPZGPY2pxnVa6SkKdwcs8aMGucXH/view?usp=sharing)  
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/182qkpPZGPY2pxnVa6SkKdwcs8aMGucXH/view?usp=sharing](https://drive.google.com/file/d/1qTgR-n1g6iW8qowsx_gYmyBSekGaPi_-/view?usp=drive_link))  
 
 - ⚡ Fun fact: **I enjoy experimenting with new technologies and building creative solutions to real-world problems!**
   
