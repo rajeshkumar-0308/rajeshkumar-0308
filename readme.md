@@ -48,7 +48,7 @@
 <h1 align="center">📈 Contribution Graph</h1>
 <div align="center" style="background: linear-gradient(to bottom right, #36BCF7, #121212); padding: 20px; border-radius: 15px;">
   <p>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rajeshkumar-0308&theme=react-dark&area=true" alt="Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeshkumar-0308&theme=react-dark&area=true" alt="Contribution Graph" />
   </p>
 </div>
 
