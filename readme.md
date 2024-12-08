@@ -83,18 +83,19 @@
 
   <!-- Gmail Logo -->
   <a href="mailto:rajeshsaravanan2004@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Gmail_icon_%282013-2020%29.png" 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Gmail_Icon_%282013-2020%29.png" 
          alt="Gmail" 
          style="max-width: 100%; width: 80px; height: 80px; border-radius: 15px;" />
   </a>
 
-  <!-- Portfolio Logo -->
+  <!-- Portfolio Logo (GitHub Pages) -->
   <a href="https://rajeshkumar-0308.github.io/Personal_Portfolio/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Octicons-mark-github.svg" 
          alt="Portfolio" 
          style="max-width: 100%; width: 80px; height: 80px; border-radius: 15px;" />
   </a>
 </div>
+
 
 
 
