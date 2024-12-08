@@ -35,26 +35,30 @@
 </p>
 
 ---
+<h1 align="center">📊 GitHub Stats</h1>
+<div align="center" style="background: linear-gradient(to bottom right, #36BCF7, #121212); padding: 20px; border-radius: 15px;">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=rajeshkumar-0308&show_icons=true&theme=radical" alt="Rajesh Kumar's GitHub Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshkumar-0308&layout=compact&theme=radical" alt="Top Languages" />
+  </p>
+</div>
 
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajeshkumar-0308&show_icons=true&theme=radical" alt="Rajesh's GitHub Stats" />
-</p>
+<h1 align="center">📈 Contribution Graph</h1>
+<div align="center" style="background: linear-gradient(to bottom right, #36BCF7, #121212); padding: 20px; border-radius: 15px;">
+  <p>
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rajeshkumar-0308&theme=react-dark&area=true" alt="Contribution Graph" />
+  </p>
+</div>
 
-<h2 align="center">🌐 Top Languages</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshkumar-0308&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<h1 align="center">👀 Profile Views</h1>
+<div align="center" style="background: linear-gradient(to bottom right, #36BCF7, #121212); padding: 20px; border-radius: 15px;">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=rajeshkumar-0308&color=blue" alt="Visitor Count" />
+  </p>
+</div>
 
-<h2 align="center">📈 Contribution Graph</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rajeshkumar-0308&theme=react-dark&area=true" alt="Rajesh's Contribution Graph" />
-</p>
-
-<h2 align="center">👀 Profile Views</h2>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajeshkumar-0308&color=blue" alt="Visitor Count" />
-</p>
 
 ---
 
