@@ -28,10 +28,10 @@
 ---
 
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">🛠️ Tech Toolkit</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,bootstrap,git,github,arduino" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,figma,wordpress,git,github,arduino," />
 </p>
 
 ---
@@ -39,8 +39,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajeshkumar-0308&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshkumar-0308&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -48,10 +48,10 @@
 <h2 align="center">🌟 Top Repositories</h2>
 <p align="center">
   <a href="https://github.com/yourusername/your-repo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshkumars-0308&repo=your-repo&theme=radical" />
   </a>
   <a href="https://github.com/yourusername/your-another-repo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-another-repo&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshkumars-0308&repo=your-another-repo&theme=radical" />
   </a>
 </p>
 
