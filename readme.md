@@ -40,8 +40,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajeshkumar-0308&show_icons=true&theme=radical" alt="GitHub Stats" />
-  ![Rajesh's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rajeshkumar-0308&theme=react-dark&area=true)
-  ![Visitor Count](https://komarev.com/ghpvc/?username=rajeshkumar-0308&color=blue)
+  <img scr="https://github-readme-activity-graph.cyclic.app/graph?username=rajeshkumar-0308&theme=react-dark&area=true" alt="Contribution Graph" />
+  <img scr="https://komarev.com/ghpvc/?username=rajeshkumar-0308&color=blue" alt="Views Counts" />
 </p>
 
 ---
