@@ -89,7 +89,7 @@
 
   <!-- Personal Portfolio Logo -->
   <a href="https://rajeshkumar-0308.github.io/Personal_Portfolio/" target="_blank">
-    <img align="center" src="https://img.icons8.com/fluency/48/github.png" alt="Portfolio" height="50" width="50" />
+    <img align="center" src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" height="50" width="50" />
   </a>
 </p>
 
