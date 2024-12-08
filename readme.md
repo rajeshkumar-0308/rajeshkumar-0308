@@ -37,11 +37,9 @@
 ---
 <h1 align="center">📊 GitHub Stats</h1>
 
-<h1 align="center">👀 Profile Views</h1>
-<div align="center" style="background: linear-gradient(to bottom right, #36BCF7, #121212); padding: 20px; border-radius: 15px;">
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=rajeshkumar-0308&color=blue" alt="Visitor Count" />
-  </p>
+<h1 align="center">👀 Profile Views <img src="https://komarev.com/ghpvc/?username=rajeshkumar-0308&color=blue" alt="Visitor Count" style="background: linear-gradient(to bottom right, #36BCF7, #121212); padding: 20px; border-radius: 15px;" /></h1>
+<div align="center" >
+
 </div>
 
 
