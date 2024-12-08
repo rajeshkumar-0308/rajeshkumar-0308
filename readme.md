@@ -18,13 +18,13 @@
 
 - 🌱 I’m learning to work efficiently in **low code development** and **hosting with DNS**  
 
-- 👨‍💻 All of my projects are available at <a href="https://your-portfolio-link.com](https://rajeshkumar-0308.github.io/Personal_Portfolio/"> My Portfolio </a>
+- 👨‍💻 All of my projects are available at <a href="https://rajeshkumar-0308.github.io/Personal_Portfolio/"> My Portfolio </a>
 
 - 💬 Ask me about **Web Development(MERN Stack) and Java Programming**  
 
 - 📫 How to reach me: **rajeshsaravanan2004@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/182qkpPZGPY2pxnVa6SkKdwcs8aMGucXH/view?usp=sharing](https://drive.google.com/file/d/1qTgR-n1g6iW8qowsx_gYmyBSekGaPi_-/view?usp=drive_link))  
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/182qkpPZGPY2pxnVa6SkKdwcs8aMGucXH/view?usp=sharing](https://drive.google.com/file/d/1qTgR-n1g6iW8qowsx_gYmyBSekGaPi_-/view?usp=drive_link"> Resume </a>
 
 - ⚡ Fun fact: **I enjoy experimenting with new technologies and building creative solutions to real-world problems!**
   
