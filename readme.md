@@ -64,10 +64,10 @@
 <h2 align="center">🌟 Top Repositories</h2>
 <p align="center">
   <a href="https://github.com/yourusername/your-repo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshkumars-0308&repo=your-repo&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshkumars-0308&repo=Booking_System&theme=radical" />
   </a>
   <a href="https://github.com/yourusername/your-another-repo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshkumars-0308&repo=your-another-repo&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshkumars-0308&repo=dindigul_mogavari&theme=radical" />
   </a>
 </p>
 
