@@ -36,20 +36,18 @@
 
 ---
 <h1 align="center">📊 GitHub Stats</h1>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px; background: linear-gradient(to bottom right, #36BCF7, #121212); border-radius: 15px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajeshkumar-0308&show_icons=true&theme=radical" alt="Rajesh Kumar's GitHub Stats" style="max-width: 100%; width: 45%; min-width: 300px; max-height: 250px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshkumar-0308&layout=compact&theme=radical" alt="Top Languages" style="max-width: 100%; width: 45%; min-width: 300px; max-height: 250px" />
-</div>
-
-
-
-
 
 <h1 align="center">👀 Profile Views</h1>
 <div align="center" style="background: linear-gradient(to bottom right, #36BCF7, #121212); padding: 20px; border-radius: 15px;">
   <p>
     <img src="https://komarev.com/ghpvc/?username=rajeshkumar-0308&color=blue" alt="Visitor Count" />
   </p>
+</div>
+
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px; background: linear-gradient(to bottom right, #36BCF7, #121212); border-radius: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajeshkumar-0308&show_icons=true&theme=radical" alt="Rajesh Kumar's GitHub Stats" style="max-width: 100%; width: 45%; min-width: 300px; height: 250px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshkumar-0308&layout=compact&theme=radical" alt="Top Languages" style="max-width: 100%; width: 45%; min-width: 300px; height: 250px" />
 </div>
 
 
