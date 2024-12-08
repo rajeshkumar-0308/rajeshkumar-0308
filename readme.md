@@ -72,30 +72,30 @@
 </p>
 
 ---
-
 <h2 align="center">🌐 Connect with Me</h2>
-<p align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px; background: linear-gradient(to bottom right, #36BCF7, #121212); border-radius: 15px;">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/srajeshkumar03/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
          alt="LinkedIn" 
-         style="width: 100px; height: 100px; border-radius: 20px; border: 2px solid #36BCF7; margin: 10px;" />
+         style="max-width: 100%; width: 120px; height: 120px; border-radius: 15px;" />
   </a>
-  
+
   <!-- Gmail -->
   <a href="mailto:rajeshsaravanan2004@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" 
          alt="Gmail" 
-         style="width: 100px; height: 100px; border-radius: 20px; border: 2px solid #36BCF7; margin: 10px;" />
+         style="max-width: 100%; width: 120px; height: 120px; border-radius: 15px;" />
   </a>
-  
+
   <!-- Portfolio -->
   <a href="https://rajeshkumar-0308.github.io/Personal_Portfolio/">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" 
          alt="Portfolio" 
-         style="width: 100px; height: 100px; border-radius: 20px; border: 2px solid #36BCF7; margin: 10px;" />
+         style="max-width: 100%; width: 120px; height: 120px; border-radius: 15px;" />
   </a>
-</p>
+</div>
+
 
 
 ---
