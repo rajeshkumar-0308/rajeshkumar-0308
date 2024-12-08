@@ -74,27 +74,28 @@
 ---
 <h2 align="center">🌐 Connect with Me</h2>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px; background: linear-gradient(to bottom right, #36BCF7, #121212); border-radius: 15px;">
-  <!-- LinkedIn -->
+  <!-- LinkedIn Logo -->
   <a href="https://www.linkedin.com/in/srajeshkumar03/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png" 
          alt="LinkedIn" 
-         style="max-width: 100%; width: 120px; height: 120px; border-radius: 15px;" />
+         style="max-width: 100%; width: 80px; height: 80px; border-radius: 15px;" />
   </a>
 
-  <!-- Gmail -->
+  <!-- Gmail Logo -->
   <a href="mailto:rajeshsaravanan2004@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Gmail_icon_%282013-2020%29.png" 
          alt="Gmail" 
-         style="max-width: 100%; width: 120px; height: 120px; border-radius: 15px;" />
+         style="max-width: 100%; width: 80px; height: 80px; border-radius: 15px;" />
   </a>
 
-  <!-- Portfolio -->
+  <!-- Portfolio Logo -->
   <a href="https://rajeshkumar-0308.github.io/Personal_Portfolio/">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Octicons-mark-github.svg" 
          alt="Portfolio" 
-         style="max-width: 100%; width: 120px; height: 120px; border-radius: 15px;" />
+         style="max-width: 100%; width: 80px; height: 80px; border-radius: 15px;" />
   </a>
 </div>
+
 
 
 
