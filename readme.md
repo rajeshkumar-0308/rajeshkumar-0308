@@ -75,7 +75,18 @@
 </p>
 
 ---
-<h2 align="center">🌐 Connect with Me</h2>
+
+
+
+<h2 align="center">🌐 LeetCode Profile</h2>
+<p align="center">
+  <!-- LeetCode Stats Image -->
+  <img src="https://leetcard.jacoblin.cool/RajeshKumarS_0308?font=segoe_ui&width=500&height=200&theme=dark" alt="Leetcode Stats" />
+</p>
+
+---
+
+<h2 align="center">📬 Connect with Me</h2>
 <p align="center">
   <!-- LinkedIn Logo -->
   <a href="https://www.linkedin.com/in/srajeshkumar03/" target="_blank">
@@ -94,15 +105,6 @@
 </p>
 
 ---
-
-<h2 align="center">🌐 LeetCode Profile</h2>
-<p align="center">
-  <!-- LeetCode Stats Image -->
-  <img src="https://leetcard.jacoblin.cool/RajeshKumarS_0308?font=segoe_ui&width=500&height=200&theme=dark" alt="Leetcode Stats" />
-</p>
-
----
-
 
 
 
