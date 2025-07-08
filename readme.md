@@ -21,7 +21,7 @@
 
 - 📫 How to reach me: **rajeshsaravanan2004@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1qTgR-n1g6iW8qowsx_gYmyBSekGaPi_-/view?usp=drive_link"> Resume </a>
+- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/1qTgR-n1g6iW8qowsx_gYmyBSekGaPi_-/view?usp=drive_link](https://drive.google.com/file/d/1pPg073yi0y2YEjwa7jd2z3OGxgJ3wiwY/view?usp=drivesdk)"> Resume </a>
 
 - ⚡ Fun fact: **I enjoy experimenting with new technologies and building creative solutions to real-world problems!**
   
@@ -65,10 +65,10 @@
 
 <h2 align="center">🌟 Top Repositories</h2>
 <p align="center">
-  <a href="https://github.com/yourusername/your-repo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshkumar-0308&repo=Booking_System&theme=radical" />
+  <a href="https://github.com/rajeshkumar-0308/Food-delivery">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshkumar-0308&repo=Food-delivery&theme=radical" />
   </a>
-  <a href="https://github.com/yourusername/your-another-repo">
+  <a href="https://github.com/rajeshkumar-0308/dindigul_mogavari">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshkumar-0308&repo=dindigul_mogavari&theme=radical" />
   </a>
 </p>
