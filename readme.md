@@ -21,7 +21,7 @@
 
 - 📫 How to reach me: **rajeshsaravanan2004@gmail.com**
 
-- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/1qTgR-n1g6iW8qowsx_gYmyBSekGaPi_-/view?usp=drive_link](https://drive.google.com/file/d/1pPg073yi0y2YEjwa7jd2z3OGxgJ3wiwY/view?usp=drivesdk)"> Resume </a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1pPg073yi0y2YEjwa7jd2z3OGxgJ3wiwY/view?usp=drivesdk"> Resume </a>
 
 - ⚡ Fun fact: **I enjoy experimenting with new technologies and building creative solutions to real-world problems!**
   
