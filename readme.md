@@ -32,7 +32,7 @@
 <h2 align="center">🛠️ Tech Toolkit</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,figma,wordpress,git,github,arduino," />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,mysql,java,figma,wordpress,git,github,jdbc,arduino" />
 </p>
 
 ---
